@@ -1,3 +1,14 @@
+:root {
+    --blue-600: #2563eb;
+    --indigo-700: #4338ca;
+    --gray-50: #f9fafb;
+    --gray-100: #f3f4f6;
+    --gray-600: #4b5563;
+    --gray-700: #374151;
+    --blue-100: #dbeafe;
+    --blue-600: #2563eb;
+  }
+
 *{
     margin: 0;
 }
